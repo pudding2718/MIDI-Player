@@ -1,0 +1,1642 @@
+[
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 0,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 50,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 50,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 50,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 100,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 200,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 300,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 500,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 530,
+    "pitch": 74,
+    "offset": 650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 700,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 530,
+    "pitch": 74,
+    "offset": 750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 530,
+    "pitch": 74,
+    "offset": 850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 530,
+    "pitch": 74,
+    "offset": 950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 1000,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1050,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 1050,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 1050,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 1100,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 1150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 1150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 690,
+    "pitch": 58,
+    "offset": 1200,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 570,
+    "pitch": 70,
+    "offset": 1250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 1250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 1250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1300,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 570,
+    "pitch": 70,
+    "offset": 1350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 1350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 1350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 1450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 530,
+    "pitch": 74,
+    "offset": 1450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 1450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1500,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 1550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 530,
+    "pitch": 74,
+    "offset": 1550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 1550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 1650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 520,
+    "pitch": 75,
+    "offset": 1650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 460,
+    "pitch": 81,
+    "offset": 1650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1700,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 1750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 520,
+    "pitch": 75,
+    "offset": 1750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 460,
+    "pitch": 81,
+    "offset": 1750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 1800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 1800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 1800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 1850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 720,
+    "pitch": 55,
+    "offset": 1900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 570,
+    "pitch": 70,
+    "offset": 1900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 480,
+    "pitch": 79,
+    "offset": 1900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 710,
+    "pitch": 56,
+    "offset": 1950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 1950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 470,
+    "pitch": 80,
+    "offset": 1950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 367,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 384,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 600,
+    "pitch": 67,
+    "offset": 400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 500,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 575,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 625,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 620,
+    "pitch": 65,
+    "offset": 650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 75,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 675,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 975,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 1025,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 1050,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 1075,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1150,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 690,
+    "pitch": 58,
+    "offset": 1167,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1184,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1200,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 1250,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 670,
+    "pitch": 60,
+    "offset": 1300,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1350,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 670,
+    "pitch": 60,
+    "offset": 1375,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 670,
+    "pitch": 60,
+    "offset": 1425,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 1450,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 75,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1475,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1550,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 640,
+    "pitch": 63,
+    "offset": 1567,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1584,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 600,
+    "pitch": 67,
+    "offset": 1650,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 1700,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 1775,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 620,
+    "pitch": 65,
+    "offset": 1825,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 125,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 1875,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 175,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 175,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 575,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 575,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": true,
+    "duration": 200,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 200,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 670,
+    "pitch": 60,
+    "offset": 800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 75,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 75,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 975,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 975,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 200,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 1000,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 200,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 1000,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 1200,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 690,
+    "pitch": 58,
+    "offset": 1200,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 75,
+    "rawPitch": 690,
+    "pitch": 58,
+    "offset": 1300,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 75,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1300,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 690,
+    "pitch": 58,
+    "offset": 1375,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 25,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1375,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1400,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 1500,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1500,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 640,
+    "pitch": 63,
+    "offset": 1600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1600,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1700,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 1700,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 710,
+    "pitch": 56,
+    "offset": 1800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 1850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 1850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 600,
+    "pitch": 67,
+    "offset": 1900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 690,
+    "pitch": 58,
+    "offset": 1900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 1950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "FrenchHorn",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 50,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1950,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 800,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 850,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 30,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 900,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": true,
+    "duration": 16,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 750,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 767,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Marimba",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 16,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 784,
+    "isInGroup": false
+  }
+]

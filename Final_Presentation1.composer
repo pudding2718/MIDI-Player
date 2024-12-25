@@ -1,0 +1,1382 @@
+[
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 60,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 4808,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 60,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 4859,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 180,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 6661,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 90,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 4909,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 300,
+    "rawPitch": 710,
+    "pitch": 56,
+    "offset": 5194,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 90,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 5197,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 90,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 5388,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 300,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 5488,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 5491,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 5877,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 5968,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 296,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 6073,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 319,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 6954,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 5779,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 6370,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 6475,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 6860,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 5776,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 6966,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 7065,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 4907,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 5195,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 175,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 5292,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 5633,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 5677,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 5584,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 5489,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 268,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 5776,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 6373,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 6071,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 6167,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 6268,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 6812,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 6520,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 40,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 6568,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 6862,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 6609,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 6664,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 6712,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 6764,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 6374,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 6914,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 303,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 6966,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 99,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 189,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 196,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 387,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 175,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 484,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 825,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 776,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 681,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 869,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 268,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 968,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 1263,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1359,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 287,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 98,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 389,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 710,
+    "pitch": 56,
+    "offset": 386,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 580,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 290,
+    "rawPitch": 730,
+    "pitch": 54,
+    "offset": 680,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 683,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1069,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1160,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 971,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 968,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 53,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 51,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 54,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 0,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 101,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 296,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 1265,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 1566,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 197,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 1853,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 1562,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 319,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 2146,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 2158,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 2257,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 2052,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 54,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 2368,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 53,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 2419,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 2469,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 2655,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 710,
+    "pitch": 56,
+    "offset": 2754,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 2757,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 2948,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 290,
+    "rawPitch": 720,
+    "pitch": 55,
+    "offset": 3048,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 3050,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 2466,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 140,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 1565,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 1460,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 2004,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 1712,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 40,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 1760,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 2054,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1801,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 1856,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 1904,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 1956,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 2106,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 210,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 2158,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 2467,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 189,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 2565,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 191,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 2852,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 2756,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 3193,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 3144,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 3047,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 3237,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 277,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 3336,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 3631,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 142,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 3933,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 490,
+    "pitch": 78,
+    "offset": 3828,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 4372,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 4080,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 40,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 4128,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 4422,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 4474,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 4169,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 610,
+    "pitch": 66,
+    "offset": 4224,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 4272,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 52,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 4324,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 560,
+    "pitch": 71,
+    "offset": 4526,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 167,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 4625,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 3437,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 3528,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 3339,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 3336,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 540,
+    "pitch": 73,
+    "offset": 3934,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 660,
+    "pitch": 61,
+    "offset": 3930,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 4035,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 197,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 4221,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 680,
+    "pitch": 59,
+    "offset": 4420,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 750,
+    "pitch": 52,
+    "offset": 4514,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 590,
+    "pitch": 68,
+    "offset": 4526,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "ChurchOrgan",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 580,
+    "pitch": 69,
+    "offset": 3727,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Violin",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 189,
+    "rawPitch": 510,
+    "pitch": 76,
+    "offset": 5004,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 294,
+    "rawPitch": 700,
+    "pitch": 57,
+    "offset": 4906,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Guitar",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 100,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 5095,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Accordion",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 296,
+    "rawPitch": 650,
+    "pitch": 62,
+    "offset": 3633,
+    "isInGroup": false
+  },
+  {
+    "instrumentType": "Piano",
+    "type": "whitman.cs370proj.composer.Models.BasicNote",
+    "isSelected": false,
+    "duration": 49,
+    "rawPitch": 630,
+    "pitch": 64,
+    "offset": 1667,
+    "isInGroup": false
+  }
+]

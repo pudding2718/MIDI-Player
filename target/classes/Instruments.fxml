@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="200.0"
+            prefWidth="125.0"
+            BorderPane.alignment="CENTER"
+            xmlns="http://javafx.com/javafx/16"
+            fx:controller="whitman.cs370proj.composer.Controllers.InstrumentsController">
+    <center>
+        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+            <RadioButton fx:id="Piano" mnemonicParsing="false" selected="true" text="Piano" textFill="#a8a1a1">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="Harpsichord" mnemonicParsing="false" text="Harpsichord" textFill="#26d016">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="Marimba" mnemonicParsing="false" text="Marimba" textFill="#2424f5">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="ChurchOrgan" mnemonicParsing="false" text="Organ" textFill="#eed82c">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="Accordion" mnemonicParsing="false" text="Accordion" textFill="#e82f85">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="Guitar" mnemonicParsing="false" text="Guitar" textFill="#16e4c2">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="Violin" mnemonicParsing="false" text="Violin">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+            <RadioButton fx:id="FrenchHorn" mnemonicParsing="false" text="French Horn" textFill="#c37d16">
+                <padding>
+                    <Insets topRightBottomLeft="5"/>
+                </padding>
+            </RadioButton>
+        </VBox>
+    </center>
+</BorderPane>

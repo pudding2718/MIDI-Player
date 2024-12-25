@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.BorderPane?>
+<MenuBar xmlns:fx="http://javafx.com/fxml/1" BorderPane.alignment="CENTER" xmlns="http://javafx.com/javafx/16"
+         fx:controller="whitman.cs370proj.composer.Controllers.MenuController">
+    <Menu mnemonicParsing="false" text="File">
+        <MenuItem accelerator="Shortcut+I" mnemonicParsing="false" onAction="#handleAbout" text="About"/>
+        <SeparatorMenuItem/>
+        <MenuItem accelerator="Shortcut+S" mnemonicParsing="false" onAction="#handleSave" text="Save"/>
+        <MenuItem accelerator="Shortcut+Shift+S" mnemonicParsing="false" onAction="#handleSaveAs" text="Save as"/>
+        <MenuItem accelerator="Shortcut+N" mnemonicParsing="false" onAction="#handleNew" text="New"/>
+        <MenuItem accelerator="Shortcut+O" mnemonicParsing="false" onAction="#handleOpen" text="Open"/>
+        <SeparatorMenuItem/>
+        <MenuItem accelerator="Shortcut+E" mnemonicParsing="false" onAction="#handleExit" text="Exit"/>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Edit">
+        <MenuItem accelerator="Shortcut+Z" mnemonicParsing="false" onAction="#handleUndo" text="Undo"/>
+        <MenuItem accelerator="Shortcut+Shift+Z" mnemonicParsing="false" onAction="#handleRedo" text="Redo"/>
+        <SeparatorMenuItem/>
+        <MenuItem accelerator="Shortcut+A" mnemonicParsing="false" onAction="#handleSelectAll" text="Select All"/>
+        <MenuItem accelerator="Shortcut+T" mnemonicParsing="false" onAction="#handleInstrumentChange"
+                  text="Change Instrument"/>
+        <MenuItem mnemonicParsing="false" onAction="#handleVolume" text="Volume"/>
+        <MenuItem accelerator="Shortcut+G" mnemonicParsing="false" onAction="#handleGroup" text="Group"/>
+        <MenuItem accelerator="Shortcut+U" mnemonicParsing="false" onAction="#handleUngroup" text="Ungroup"/>
+        <MenuItem accelerator="Shortcut+X" mnemonicParsing="false" onAction="#handleCut" text="Cut"/>
+        <MenuItem accelerator="Shortcut+C" mnemonicParsing="false" onAction="#handleCopy" text="Copy"/>
+        <MenuItem accelerator="Shortcut+V" mnemonicParsing="false" onAction="#handlePaste" text="Paste"/>
+        <MenuItem accelerator="Shortcut+Delete" mnemonicParsing="false" onAction="#handleDelete" text="Delete"/>
+        <SeparatorMenuItem/>
+        <MenuItem mnemonicParsing="false" onAction="#handleGitLink" text="GitHub Page"/>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Action">
+        <MenuItem accelerator="Shortcut+P" onAction="#handlePlay" text="Play"/>
+        <MenuItem accelerator="Shortcut+O" onAction="#handlePlaySelected" text="Play Selected"/>
+        <MenuItem accelerator="Shortcut+Y" onAction="#handleStop" text="Stop"/>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Volume">
+        <graphic>
+            <Slider fx:id="volumeSlider" blockIncrement="1.0" max="127.0" showTickLabels="true" showTickMarks="true"/>
+        </graphic>
+    </Menu>
+</MenuBar>
