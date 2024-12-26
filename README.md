@@ -55,5 +55,5 @@ Below is the class diagram for the MIDI Player project, showcasing the structure
 
 ## Contributors
 
-- [Tina](https://github.com/tina-github), [Paul](https://github.com/paul-github), [Flora](https://github.com/flora-github), [Jess](https://github.com/jess-github)
+- [Tina](https://github.com/pudding2718), [Paul](https://github.com/laolarou726), [Flora](https://github.com/florataagen), [Jess](https://github.com/Jess-Lilly)
 
