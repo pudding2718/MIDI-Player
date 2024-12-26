@@ -28,8 +28,6 @@
         <MenuItem accelerator="Shortcut+C" mnemonicParsing="false" onAction="#handleCopy" text="Copy"/>
         <MenuItem accelerator="Shortcut+V" mnemonicParsing="false" onAction="#handlePaste" text="Paste"/>
         <MenuItem accelerator="Shortcut+Delete" mnemonicParsing="false" onAction="#handleDelete" text="Delete"/>
-        <SeparatorMenuItem/>
-        <MenuItem mnemonicParsing="false" onAction="#handleGitLink" text="GitHub Page"/>
     </Menu>
     <Menu mnemonicParsing="false" text="Action">
         <MenuItem accelerator="Shortcut+P" onAction="#handlePlay" text="Play"/>
