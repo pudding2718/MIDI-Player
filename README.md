@@ -16,13 +16,6 @@ This project was developed as part of **Whitman College CS370**.
 - **Open**: Open an existing composition. *(Shortcut: ⌘O)*
 - **Exit**: Close the application. *(Shortcut: ⌘E)*
 
-- **About**: View details about the application.
-- **Save**: Save the current composition.
-- **Save As**: Save the composition with a new name.
-- **New**: Start a new composition.
-- **Open**: Open an existing composition.
-- **Exit**: Close the application.
-
 ### Edit Menu
 - **Undo/Redo**: Revert or reapply the last action. *(Shortcuts: ⌘Z / ⇧⌘Z)*
 - **Select All**: Select all notes in the composition. *(Shortcut: ⌘A)*
@@ -31,27 +24,26 @@ This project was developed as part of **Whitman College CS370**.
 - **Group/Ungroup**: Combine or separate notes into groups. *(Shortcuts: ⌘G / ⌘U)*
 - **Cut, Copy, Paste, Delete**: Standard editing options for modifying notes. *(Shortcuts: ⌘X, ⌘C, ⌘V, ⌘⌫)*
 
-- **Undo/Redo**: Revert or reapply the last action.
-- **Select All**: Select all notes in the composition.
-- **Change Instrument**: Switch between different instruments for selected notes.
-- **Volume**: Adjust the volume level of notes.
-- **Group/Ungroup**: Combine or separate notes into groups.
-- **Cut, Copy, Paste, Delete**: Standard editing options for modifying notes.
-
 ### Action Menu
 - **Play**: Play the entire composition. *(Shortcut: ⌘P)*
 - **Play Selected**: Play only the selected notes. *(Shortcut: ⌘O)*
 - **Stop**: Stop the playback. *(Shortcut: ⌘Y)*
-
-- **Play**: Play the entire composition.
-- **Play Selected**: Play only the selected notes.
-- **Stop**: Stop the playback.
 
 - **Composition and Playback**: Add, edit, group, and play notes with real-time feedback.
 - **Instrument Variety**: Choose from multiple instruments like Piano, Violin, and Guitar.
 - **Visual and Interactive UI**: Utilize JavaFX for a polished user experience.
 - **File Management**: Save and reload compositions as `.composer` files.
 - **Advanced Utilities**: Leverage JSON serialization, undo/redo history, and custom MIDI event handling.
+
+
+## How to Use
+
+1. **Add Notes**: Click on the composition pane to place notes.
+2. **Group and Edit**: Drag, group, and modify notes with ease.
+3. **Change Instruments**: Use the instrument panel to select desired sounds.
+4. **Playback**: Press play to hear your composition with animated feedback.
+5. **Save and Load**: Save your work as `.composer` files and reload them anytime.
+
 
 ## Tech Stack
 
@@ -93,14 +85,6 @@ Utility classes for extended functionality:
 Below is the class diagram for the MIDI Player project, showcasing the structure and relationships between different components, including controllers, helpers, and interfaces:
 
 ![Class Diagram](./class-diagram.png)
-
-## How to Use
-
-1. **Add Notes**: Click on the composition pane to place notes.
-2. **Group and Edit**: Drag, group, and modify notes with ease.
-3. **Change Instruments**: Use the instrument panel to select desired sounds.
-4. **Playback**: Press play to hear your composition with animated feedback.
-5. **Save and Load**: Save your work as `.composer` files and reload them anytime.
 
 ## Contributors
 
